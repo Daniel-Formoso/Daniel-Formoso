@@ -9,8 +9,6 @@
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Formoso&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Formoso)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Tecnologias que uso no meu dia
 
@@ -27,4 +25,4 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p><br>
 
-Estudante de programação e futuro desenvolvedor, em busca da minha primeira oportunidade na área de tecnologia. Sou fascinado por como a tecnologia pode ajudar a resolver problemas no dia a dia. 
+## Estudante de programação e futuro desenvolvedor, em busca da minha primeira oportunidade na área de tecnologia. Sou fascinado por como a tecnologia pode ajudar a resolver problemas no dia a dia. 
