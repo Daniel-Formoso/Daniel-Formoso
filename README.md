@@ -4,8 +4,6 @@
 [![Portfólio](https://img.shields.io/website?label=MEUPORTFOLIO&style=for-the-badge&url=https://meu-site-murex-chi.vercel.app/)](https://meu-site-murex-chi.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/daniel-formoso-7943271b5/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/danielformoso/)
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Formoso&show_icons=true&theme=onedark)
 
