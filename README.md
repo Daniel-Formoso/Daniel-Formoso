@@ -13,7 +13,7 @@
 
 <div align="left">
     <a href="https://meu-site-murex-chi.vercel.app/" target="_blank">
-    <img height="40em" src="https://img.shields.io/badge/Meu Portifolio-01a7c2?style=for-the-badge&logo=Portfolio&logoColor=000" alt="Meu Portfólio">
+    <img height="40em" src="https://img.shields.io/badge/Meu Portfolio-01a7c2?style=for-the-badge&logo=Portfolio&logoColor=000" alt="Meu Portfólio">
   </a>
   <a href="mailto:daniel.formoso100@gmail.com" target="_blank">
     <img height="40em" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
