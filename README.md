@@ -6,7 +6,7 @@
 
 <p>Estudante de programação e futuro desenvolvedor, em busca da minha primeira oportunidade na área de tecnologia.</p>
 
-* Sistemas de Informação - **6º período**
+* Sistemas de Informação - **7º período**
 * Futuro **Desenvolvedor Frontend**
 * Você pode me encontrar nos links abaixo:
 
